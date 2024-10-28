@@ -1,14 +1,6 @@
 {
-  "name": "ai_projects",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "openai": "^4.68.1"
+    "@llama-node/llama-cpp": "^0.1.6",
+    "llama-node": "^0.1.6"
   }
 }
